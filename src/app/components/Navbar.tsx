@@ -23,7 +23,7 @@ export const Navbar = () => {
         }, 
     ]
 
-    
+
   return (
     <div className='flex justify-between items-center'>
           <h1 className='text-[24px] text-white cursor-pointer'>Jaybert</h1>
@@ -44,3 +44,4 @@ export const Navbar = () => {
   
     );
 }
+
